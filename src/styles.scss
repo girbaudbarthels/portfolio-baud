@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+
+html, body{
+    margin: 0;
+    padding: 0;
+}
+p{
+    margin: 0;
+}
+.textColor{color:#f3eafa}
+.primary{color:#3fd737}
+.primaryBackground{background-color:#3fd737}
+.backgroundColor{background-color:#030104}
+.primaryButton{background-color:#3fd737}
+.secondaryButton{background-color:#ffffff}
+.accent{color:#07e4a1}
+.accentBackground{background-color:#07e4a1}
